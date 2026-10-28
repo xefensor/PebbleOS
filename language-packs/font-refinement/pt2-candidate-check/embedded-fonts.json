@@ -1,0 +1,38 @@
+[
+  {
+    "font": "GOTHIC_14",
+    "sha256": "6dfd5920c036c2cc18287be374839433202f38824a99c98556bd7b37e8a1650d"
+  },
+  {
+    "font": "GOTHIC_14_BOLD",
+    "sha256": "d6b175f97cdec772e4c5b575ef08b1b0a2acb3f3a80c70cb2819dfa32575785e"
+  },
+  {
+    "font": "GOTHIC_18",
+    "sha256": "4efbd2c6e014472913676f683723fa85dd99ed4e1aeaf513294a884bbe3b5a4c"
+  },
+  {
+    "font": "GOTHIC_18_BOLD",
+    "sha256": "4788522ce74512505b9ef6b5691cffc08f40b05939ce7f2dfd26fdc353aa726f"
+  },
+  {
+    "font": "BITHAM_30_BLACK",
+    "sha256": "8ebf07bf01d31aca53b8bd78d5fad3a384c26bfb26a93c836ebfd03bcc62ea2a"
+  },
+  {
+    "font": "BITHAM_42_BOLD",
+    "sha256": "7e3108abd48cbf4efcbdebea82b485977ac3937b3ea6fb6c4c482dc3600b5559"
+  },
+  {
+    "font": "BITHAM_42_LIGHT",
+    "sha256": "8d0002eacedbf2e074fcb453c47bf5406118c6fe5417870fb3e821639eb3feca"
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "sha256": "50f0a9efebe3579bd35cafd76d7ff4984973db285633449f8064494e2e7654b6"
+  },
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "sha256": "7814d5f1a4191f3f6da35d15c594742a7e9bd2822200108df2cd8e2e30045765"
+  }
+]

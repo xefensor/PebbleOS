@@ -1,0 +1,80 @@
+[
+  {
+    "font": "BITHAM_30_BLACK",
+    "choice": "Gotham SSm Black; tahy znamének zúžené o jeden pixel",
+    "changed_glyphs": 30,
+    "sha256": "8ebf07bf01d31aca53b8bd78d5fad3a384c26bfb26a93c836ebfd03bcc62ea2a"
+  },
+  {
+    "font": "BITHAM_42_BOLD",
+    "choice": "Diakritika Gotham SSm Bold",
+    "changed_glyphs": 30,
+    "sha256": "7e3108abd48cbf4efcbdebea82b485977ac3937b3ea6fb6c4c482dc3600b5559"
+  },
+  {
+    "font": "BITHAM_42_LIGHT",
+    "choice": "Původní čárky repo; doplněné háčky ve stejné tloušťce",
+    "changed_glyphs": 28,
+    "sha256": "8d0002eacedbf2e074fcb453c47bf5406118c6fe5417870fb3e821639eb3feca"
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "choice": "Diakritika projektového Droid Serif Bold TTF",
+    "changed_glyphs": 30,
+    "sha256": "50f0a9efebe3579bd35cafd76d7ff4984973db285633449f8064494e2e7654b6"
+  },
+  {
+    "font": "GOTHIC_14",
+    "choice": "Původní repo",
+    "changed_glyphs": 8,
+    "sha256": "6dfd5920c036c2cc18287be374839433202f38824a99c98556bd7b37e8a1650d"
+  },
+  {
+    "font": "GOTHIC_14_BOLD",
+    "choice": "Původní repo",
+    "changed_glyphs": 21,
+    "sha256": "d6b175f97cdec772e4c5b575ef08b1b0a2acb3f3a80c70cb2819dfa32575785e"
+  },
+  {
+    "font": "GOTHIC_18",
+    "choice": "Dosavadní český návrh",
+    "changed_glyphs": 0,
+    "sha256": "4efbd2c6e014472913676f683723fa85dd99ed4e1aeaf513294a884bbe3b5a4c"
+  },
+  {
+    "font": "GOTHIC_18_BOLD",
+    "choice": "Dosavadní český návrh",
+    "changed_glyphs": 0,
+    "sha256": "4788522ce74512505b9ef6b5691cffc08f40b05939ce7f2dfd26fdc353aa726f"
+  },
+  {
+    "font": "GOTHIC_24",
+    "choice": "Beze změny",
+    "changed_glyphs": 0,
+    "sha256": "c77c6a123ebaadc309439743121edb0b8b267234f9518e999249344245b3e2e8"
+  },
+  {
+    "font": "GOTHIC_24_BOLD",
+    "choice": "Beze změny",
+    "changed_glyphs": 0,
+    "sha256": "a8e151d424a0dd128897e2932d2d1ca88fafc880cda1b6f85585c14ba563aed4"
+  },
+  {
+    "font": "GOTHIC_28",
+    "choice": "Beze změny",
+    "changed_glyphs": 0,
+    "sha256": "05813b352736d07c98f95c57485155cf4fd5bd731194ad1f5a868360794d1e2b"
+  },
+  {
+    "font": "GOTHIC_28_BOLD",
+    "choice": "Beze změny",
+    "changed_glyphs": 0,
+    "sha256": "a04a62d36ba525bf914e94beac07daf547fb0d25a81b5abafd13e0f5569f8e0c"
+  },
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "choice": "Diakritika projektového Roboto Condensed TTF",
+    "changed_glyphs": 30,
+    "sha256": "7814d5f1a4191f3f6da35d15c594742a7e9bd2822200108df2cd8e2e30045765"
+  }
+]

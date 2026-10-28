@@ -49,3 +49,6 @@
 [submodule "third_party/samsa/samsa"]
 	path = third_party/samsa/samsa
 	url = https://github.com/coredevices/samsa.git
+[submodule "language-packs/pebbleos-translations"]
+	path = language-packs/pebbleos-translations
+	url = https://github.com/coredevices/pebbleos-translations.git

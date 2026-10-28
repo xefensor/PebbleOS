@@ -1,0 +1,93 @@
+[
+  {
+    "font": "GOTHIC_14",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/common/base/pbf/GOTHIC_14.pbf",
+    "sha256": "a8e82f9182d61198dbf52190c8192c678bec37acc5cd392a64765eeada30c224",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_14_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/GOTHIC_14_BOLD.pbf",
+    "sha256": "c1f5d4320bc3353b43d5333be13dbd5e33bb6360707eb13aa114893ff1643f30",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_18",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/GOTHIC_18.pbf",
+    "sha256": "ae0d9c093dd1fc88740a5b0a9e2437453cceb0d8f1e1929646a2528c6613dada",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_18_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/common/base/pbf/GOTHIC_18_BOLD.pbf",
+    "sha256": "7fc104d09b88a187f44e7f174135473e9d6273df730d94d9cd2c17641b9d635c",
+    "missing_czech": ""
+  },
+  {
+    "font": "BITHAM_30_BLACK",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/BITHAM_30_BLACK.pbf",
+    "sha256": "08d17b31cdeda603e855d359226a031f376dc3697e363a0beedbd3a6715a15fe",
+    "missing_czech": "ÝČčĎďĚěŇňŘřŠšŤťŽžŮů"
+  },
+  {
+    "font": "BITHAM_42_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/BITHAM_42_BOLD.pbf",
+    "sha256": "f0cd728188079573331c73c5d3f52bd9513f576ed9c2fc7250d2abe72092cff3",
+    "missing_czech": "ÝČčĎďĚěŇňŘřŠšŤťŽžŮů"
+  },
+  {
+    "font": "BITHAM_42_LIGHT",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/BITHAM_42_LIGHT.pbf",
+    "sha256": "fd2dabe96b0d7659e9d9168383cef2ec9577dbefe48e40127280c433251f9639",
+    "missing_czech": "ÝČčĎďĚěŇňŘřŠšŤťŽžŮů"
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/DROID_SERIF_28_BOLD.pbf",
+    "sha256": "fd4b11662ec05a03388d2be80e036e926627a2c20dd1dbdb8e76b6597e7419f2",
+    "missing_czech": "ÝČčĎďĚěŇňŘřŠšŤťŽžŮů"
+  },
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/ttf/Roboto-Condensed.ttf + basic_latin_codepoints.json (projektový generátor)",
+    "sha256": "d5751151c8678d09d3164d11ee745a3f60bc588f5a26d4ffd4380f4dfb3ee4be",
+    "missing_czech": "ÝČčĎďĚěŇňŘřŠšŤťŽžŮů"
+  },
+  {
+    "font": "GOTHIC_24",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/common/base/pbf/GOTHIC_24.pbf",
+    "sha256": "9bf7d7b1bc05665904afcef626d62905915a9a54475ee939e56d580d64d3e6fd",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_24_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/GOTHIC_24_BOLD.pbf",
+    "sha256": "b341eea37ae3e586f9382d0a3319de17cc6e436d981ebffe3200c237cf95014c",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_28",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/GOTHIC_28.pbf",
+    "sha256": "c6f81ae4fa9ff19add4875dde47b23f0d18d49bb4d442dc242e8139c693b1917",
+    "missing_czech": ""
+  },
+  {
+    "font": "GOTHIC_28_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "source": "resources/normal/base/pbf/GOTHIC_28_BOLD.pbf",
+    "sha256": "728ea9bef855eaf16f48954d3ed6a287b52116345bc3533f42725013c3bed170",
+    "missing_czech": ""
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "GOTHIC_14_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_14_BOLD_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_18_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_18_BOLD_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_24_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_24_BOLD_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_28_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_28_BOLD_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "GOTHIC_36_EXTENDED": {
+    "added": "ČčĎďĚěŇňŘřŤťŮů",
+    "bytes": 1871,
+    "uncovered": ""
+  },
+  "GOTHIC_36_BOLD_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": ""
+  },
+  "BITHAM_18_LIGHT_SUBSET_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": " !%()*,.0123456789:;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefgjlopqrstuvwxyz°ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŮůŽž–"
+  },
+  "BITHAM_30_BLACK_EXTENDED": {
+    "added": "ÝČčĎďĚěŇňŘřŠšŤťŮůŽž–",
+    "bytes": 2323,
+    "uncovered": ""
+  },
+  "BITHAM_34_LIGHT_SUBSET_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": " !%()*,./0123456789:;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghjlnopqrstuvwxyz°ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŮůŽž–"
+  },
+  "BITHAM_34_MEDIUM_NUMBERS_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": " !%()*/;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŮůŽž–"
+  },
+  "BITHAM_42_BOLD_EXTENDED": {
+    "added": "ÝČčĎďĚěŇňŘřŠšŤťŮůŽž–",
+    "bytes": 3303,
+    "uncovered": ""
+  },
+  "BITHAM_42_LIGHT_EXTENDED": {
+    "added": "ÝČčĎďĚěŇňŘřŠšŤťŮůŽž–",
+    "bytes": 3051,
+    "uncovered": ""
+  },
+  "BITHAM_42_MEDIUM_NUMBERS_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": " !%()*,./;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŮůŽž–"
+  },
+  "ROBOTO_CONDENSED_21_EXTENDED": {
+    "added": "ÝČčĎďĚěŇňŘřŠšŤťŮůŽž–",
+    "bytes": 1679,
+    "uncovered": ""
+  },
+  "ROBOTO_BOLD_SUBSET_49_EXTENDED": {
+    "added": "",
+    "bytes": 0,
+    "uncovered": " !%()*,-./;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŮůŽž–"
+  },
+  "DROID_SERIF_28_BOLD_EXTENDED": {
+    "added": "ÝČčĎďĚěŇňŘřŠšŤťŮůŽž–",
+    "bytes": 2283,
+    "uncovered": ""
+  }
+}

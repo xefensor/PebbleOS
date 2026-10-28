@@ -1,0 +1,12 @@
+[
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "source": "normal/base/ttf/Roboto-Condensed.ttf",
+    "sha256": "825840488ef81d6f5257c14156d93d4de6425807b7cf5dbe961fead4ca37d4ea"
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "source": "normal/base/ttf/DroidSerif-Bold.ttf",
+    "sha256": "fc3d5c9164f3636852319a7731453fb5554ef9c924462a53623f0bf561a27a0d"
+  }
+]

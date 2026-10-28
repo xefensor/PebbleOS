@@ -1,0 +1,93 @@
+[
+  {
+    "name": "BITHAM_30_BLACK",
+    "pbf": "online-comparison/candidates/BITHAM_30_BLACK.pbf",
+    "bdf": "BITHAM_30_BLACK.bdf",
+    "baseline": 30,
+    "glyphs": 152
+  },
+  {
+    "name": "BITHAM_42_BOLD",
+    "pbf": "online-comparison/candidates/BITHAM_42_BOLD.pbf",
+    "bdf": "BITHAM_42_BOLD.bdf",
+    "baseline": 42,
+    "glyphs": 154
+  },
+  {
+    "name": "BITHAM_42_LIGHT",
+    "pbf": "online-comparison/candidates/BITHAM_42_LIGHT.pbf",
+    "bdf": "BITHAM_42_LIGHT.bdf",
+    "baseline": 42,
+    "glyphs": 154
+  },
+  {
+    "name": "DROID_SERIF_28_BOLD",
+    "pbf": "online-comparison/candidates/DROID_SERIF_28_BOLD.pbf",
+    "bdf": "DROID_SERIF_28_BOLD.bdf",
+    "baseline": 28,
+    "glyphs": 155
+  },
+  {
+    "name": "GOTHIC_14",
+    "pbf": "online-comparison/candidates/GOTHIC_14.pbf",
+    "bdf": "GOTHIC_14.bdf",
+    "baseline": 14,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_14_BOLD",
+    "pbf": "online-comparison/candidates/GOTHIC_14_BOLD.pbf",
+    "bdf": "GOTHIC_14_BOLD.bdf",
+    "baseline": 14,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_18",
+    "pbf": "online-comparison/candidates/GOTHIC_18.pbf",
+    "bdf": "GOTHIC_18.bdf",
+    "baseline": 18,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_18_BOLD",
+    "pbf": "online-comparison/candidates/GOTHIC_18_BOLD.pbf",
+    "bdf": "GOTHIC_18_BOLD.bdf",
+    "baseline": 18,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_24",
+    "pbf": "online-comparison/candidates/GOTHIC_24.pbf",
+    "bdf": "GOTHIC_24.bdf",
+    "baseline": 24,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_24_BOLD",
+    "pbf": "online-comparison/candidates/GOTHIC_24_BOLD.pbf",
+    "bdf": "GOTHIC_24_BOLD.bdf",
+    "baseline": 24,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_28",
+    "pbf": "online-comparison/candidates/GOTHIC_28.pbf",
+    "bdf": "GOTHIC_28.bdf",
+    "baseline": 28,
+    "glyphs": 371
+  },
+  {
+    "name": "GOTHIC_28_BOLD",
+    "pbf": "online-comparison/candidates/GOTHIC_28_BOLD.pbf",
+    "bdf": "GOTHIC_28_BOLD.bdf",
+    "baseline": 28,
+    "glyphs": 371
+  },
+  {
+    "name": "ROBOTO_CONDENSED_21",
+    "pbf": "online-comparison/candidates/ROBOTO_CONDENSED_21.pbf",
+    "bdf": "ROBOTO_CONDENSED_21.bdf",
+    "baseline": 21,
+    "glyphs": 155
+  }
+]

@@ -1,0 +1,38 @@
+context,English,Czech,source
+,Just Once,Jednou,fw/applib/ui/day_picker.c:48
+,%k,%k,fw/apps/system/health/hr_chart.c:112
+,%l%p,%l%p,fw/apps/system/health/hr_chart.c:112
+,%l,%l,fw/apps/system/health/hr_chart.c:112
+,%d–%d BPM,%d–%d BPM,fw/apps/system/health/hr_detail_card.c:44
+,TODAY'S RANGE,DNEŠNÍ ROZSAH,fw/apps/system/health/hr_detail_card.c:102
+,SpO2,SpO2,fw/apps/system/settings/health.c:177
+,SpO2 During Activity,SpO2 při aktivitě,fw/apps/system/settings/health.c:189
+,Disconnect the charger to shut down.,Pro vypnutí odpojte nabíječku.,fw/apps/system/settings/system.c:1258
+,m/s,m/s,fw/apps/system/weather/weather_app_layout.c:539
+,kt,kt,fw/apps/system/weather/weather_app_layout.c:543
+,COMPLETE,DOKONČENO,fw/apps/system/workout/active.c:1059
+,END WORKOUT?,UKONČIT TRÉNINK?,fw/apps/system/workout/active.c:1062
+,PAUSED,POZASTAVENO,fw/apps/system/workout/active.c:1066
+,AVG,PRŮM.,fw/apps/system/workout/active.c:1120
+,Z%d,Z%d,fw/apps/system/workout/active.c:1123 fw/apps/system/workout/active.c:1276
+,TOTAL TIME,CELKOVÝ ČAS,fw/apps/system/workout/active.c:1179 fw/apps/system/workout/active.c:1224 fw/apps/system/workout/active.c:1474
+,TIMER,ČAS,fw/apps/system/workout/active.c:1179 fw/apps/system/workout/active.c:1224
+,DIST MI,VZD. MI,fw/apps/system/workout/active.c:1187
+,DIST KM,VZD. KM,fw/apps/system/workout/active.c:1187
+,PACE /MI,TEMPO /MI,fw/apps/system/workout/active.c:1189 fw/apps/system/workout/active.c:1222
+,PACE /KM,TEMPO /KM,fw/apps/system/workout/active.c:1189 fw/apps/system/workout/active.c:1222
+,KCAL,KCAL,fw/apps/system/workout/active.c:1193 fw/apps/system/workout/active.c:1210 fw/apps/system/workout/active.c:1236 fw/apps/system/workout/active.c:1478
+,CADENCE,KADENCE,fw/apps/system/workout/active.c:1208 fw/apps/system/workout/active.c:1234
+,SPEED MPH,RYCHL. MPH,fw/apps/system/workout/active.c:1219
+,SPEED KM/H,RYCHL. KM/H,fw/apps/system/workout/active.c:1220
+,LOW SPO2 %,MIN. SPO2 %,fw/apps/system/workout/active.c:1227 fw/apps/system/workout/active.c:1477
+,AVG BPM,PRŮM. BPM,fw/apps/system/workout/active.c:1229 fw/apps/system/workout/active.c:1436 fw/apps/system/workout/active.c:1475
+,TIME IN ZONE,ČAS V ZÓNĚ,fw/apps/system/workout/active.c:1253
+,LAST MINUTE,POSLEDNÍ MINUTA,fw/apps/system/workout/active.c:1400
+,WAITING FOR HR,ČEKÁNÍ NA TEP,fw/apps/system/workout/active.c:1403
+,READING SPO2,MĚŘENÍ SPO2,fw/apps/system/workout/active.c:1430
+,ZONE %d,ZÓNA %d,fw/apps/system/workout/active.c:1433
+,MEASURING,MĚŘENÍ,fw/apps/system/workout/active.c:1436
+,SPO2 %,SPO2 %,fw/apps/system/workout/active.c:1477
+,WORKOUT,TRÉNINK,fw/apps/system/workout/countdown.c:85 fw/apps/system/workout/summary.c:61
+,GO!,START!,fw/apps/system/workout/countdown.c:107

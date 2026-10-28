@@ -1,0 +1,181 @@
+[
+  {
+    "name": "BITHAM_30_BLACK",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/BITHAM_30_BLACK.pbf",
+    "repo_sha256": "08d17b31cdeda603e855d359226a031f376dc3697e363a0beedbd3a6715a15fe",
+    "ours_sha256": "8ebf07bf01d31aca53b8bd78d5fad3a384c26bfb26a93c836ebfd03bcc62ea2a",
+    "files": [
+      "1_REPO/BITHAM_30_BLACK__1_REPO.bdf",
+      "3_NASE/BITHAM_30_BLACK__3_NASE.bdf",
+      "2_PREDLOHA/BITHAM_30_BLACK__2_PREDLOHA.bdf"
+    ],
+    "reference": "Gotham ScreenSmart Black",
+    "reference_size": 29,
+    "reference_sha256": "6922d508e6a5201bc6f33cc0f46e5108c3fe45fd37f607123b626388132bc9d1"
+  },
+  {
+    "name": "BITHAM_42_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/BITHAM_42_BOLD.pbf",
+    "repo_sha256": "f0cd728188079573331c73c5d3f52bd9513f576ed9c2fc7250d2abe72092cff3",
+    "ours_sha256": "7e3108abd48cbf4efcbdebea82b485977ac3937b3ea6fb6c4c482dc3600b5559",
+    "files": [
+      "1_REPO/BITHAM_42_BOLD__1_REPO.bdf",
+      "3_NASE/BITHAM_42_BOLD__3_NASE.bdf",
+      "2_PREDLOHA/BITHAM_42_BOLD__2_PREDLOHA.bdf"
+    ],
+    "reference": "Gotham ScreenSmart Bold",
+    "reference_size": 40,
+    "reference_sha256": "170c91e5e4f64b719be568e76f6d92aa54f8d4afe1936b61f89d9aff5598294e"
+  },
+  {
+    "name": "BITHAM_42_LIGHT",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/BITHAM_42_LIGHT.pbf",
+    "repo_sha256": "fd2dabe96b0d7659e9d9168383cef2ec9577dbefe48e40127280c433251f9639",
+    "ours_sha256": "8d0002eacedbf2e074fcb453c47bf5406118c6fe5417870fb3e821639eb3feca",
+    "files": [
+      "1_REPO/BITHAM_42_LIGHT__1_REPO.bdf",
+      "3_NASE/BITHAM_42_LIGHT__3_NASE.bdf",
+      "2_PREDLOHA/BITHAM_42_LIGHT__2_PREDLOHA.bdf"
+    ],
+    "reference": "Gotham ScreenSmart Light",
+    "reference_size": 40,
+    "reference_sha256": "46c7c77c010306820427b4786967d959e2ff9b81d0bcf1bc3ed5a9e3e3b52450"
+  },
+  {
+    "name": "DROID_SERIF_28_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/DROID_SERIF_28_BOLD.pbf",
+    "repo_sha256": "fd4b11662ec05a03388d2be80e036e926627a2c20dd1dbdb8e76b6597e7419f2",
+    "ours_sha256": "50f0a9efebe3579bd35cafd76d7ff4984973db285633449f8064494e2e7654b6",
+    "files": [
+      "1_REPO/DROID_SERIF_28_BOLD__1_REPO.bdf",
+      "3_NASE/DROID_SERIF_28_BOLD__3_NASE.bdf",
+      "2_PREDLOHA/DROID_SERIF_28_BOLD__2_PREDLOHA.bdf"
+    ],
+    "reference": "Droid Serif – projektový TTF",
+    "reference_size": 28,
+    "reference_sha256": "c746c6383a03effbcad6ccb028e4b39e87071ff1a146a24fb2110a23e05776bb"
+  },
+  {
+    "name": "GOTHIC_14",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/common/base/pbf/GOTHIC_14.pbf",
+    "repo_sha256": "a8e82f9182d61198dbf52190c8192c678bec37acc5cd392a64765eeada30c224",
+    "ours_sha256": "6dfd5920c036c2cc18287be374839433202f38824a99c98556bd7b37e8a1650d",
+    "files": [
+      "1_REPO/GOTHIC_14__1_REPO.bdf",
+      "3_NASE/GOTHIC_14__3_NASE.bdf",
+      "2_PREDLOHA/GOTHIC_14__2_PREDLOHA.bdf"
+    ],
+    "reference": "Raster Gothic Fourteen Regular",
+    "reference_size": 14,
+    "reference_sha256": "72c47c63e4e19f6875cfbf832e761b303988aa7be0c81c0d67ce985fdb344d32"
+  },
+  {
+    "name": "GOTHIC_14_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/GOTHIC_14_BOLD.pbf",
+    "repo_sha256": "c1f5d4320bc3353b43d5333be13dbd5e33bb6360707eb13aa114893ff1643f30",
+    "ours_sha256": "d6b175f97cdec772e4c5b575ef08b1b0a2acb3f3a80c70cb2819dfa32575785e",
+    "files": [
+      "1_REPO/GOTHIC_14_BOLD__1_REPO.bdf",
+      "3_NASE/GOTHIC_14_BOLD__3_NASE.bdf",
+      "2_PREDLOHA/GOTHIC_14_BOLD__2_PREDLOHA.bdf"
+    ],
+    "reference": "Raster Gothic Fourteen Bold",
+    "reference_size": 14,
+    "reference_sha256": "eff129cbdd659c37c4d32aee01d42f66223ac945962c24d05a1deedbe842c1aa"
+  },
+  {
+    "name": "GOTHIC_18",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/GOTHIC_18.pbf",
+    "repo_sha256": "ae0d9c093dd1fc88740a5b0a9e2437453cceb0d8f1e1929646a2528c6613dada",
+    "ours_sha256": "4efbd2c6e014472913676f683723fa85dd99ed4e1aeaf513294a884bbe3b5a4c",
+    "files": [
+      "1_REPO/GOTHIC_18__1_REPO.bdf",
+      "3_NASE/GOTHIC_18__3_NASE.bdf",
+      "2_PREDLOHA/GOTHIC_18__2_PREDLOHA.bdf"
+    ],
+    "reference": "Raster Gothic Eighteen Regular",
+    "reference_size": 18,
+    "reference_sha256": "9e91f4f76f459e8dc46deb35e6d4d64f38571b84078e4ba9179b30debc94750e"
+  },
+  {
+    "name": "GOTHIC_18_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/common/base/pbf/GOTHIC_18_BOLD.pbf",
+    "repo_sha256": "7fc104d09b88a187f44e7f174135473e9d6273df730d94d9cd2c17641b9d635c",
+    "ours_sha256": "4788522ce74512505b9ef6b5691cffc08f40b05939ce7f2dfd26fdc353aa726f",
+    "files": [
+      "1_REPO/GOTHIC_18_BOLD__1_REPO.bdf",
+      "3_NASE/GOTHIC_18_BOLD__3_NASE.bdf",
+      "2_PREDLOHA/GOTHIC_18_BOLD__2_PREDLOHA.bdf"
+    ],
+    "reference": "Raster Gothic Eighteen Bold",
+    "reference_size": 18,
+    "reference_sha256": "30e444f68303de7af6c4545dc968173949f67c856336cc8a4dc7cd53c2ee3447"
+  },
+  {
+    "name": "GOTHIC_24",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/common/base/pbf/GOTHIC_24.pbf",
+    "repo_sha256": "9bf7d7b1bc05665904afcef626d62905915a9a54475ee939e56d580d64d3e6fd",
+    "ours_sha256": "c77c6a123ebaadc309439743121edb0b8b267234f9518e999249344245b3e2e8",
+    "files": [
+      "1_REPO/GOTHIC_24__1_REPO.bdf",
+      "3_NASE/GOTHIC_24__3_NASE.bdf"
+    ]
+  },
+  {
+    "name": "GOTHIC_24_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/GOTHIC_24_BOLD.pbf",
+    "repo_sha256": "b341eea37ae3e586f9382d0a3319de17cc6e436d981ebffe3200c237cf95014c",
+    "ours_sha256": "a8e151d424a0dd128897e2932d2d1ca88fafc880cda1b6f85585c14ba563aed4",
+    "files": [
+      "1_REPO/GOTHIC_24_BOLD__1_REPO.bdf",
+      "3_NASE/GOTHIC_24_BOLD__3_NASE.bdf"
+    ]
+  },
+  {
+    "name": "GOTHIC_28",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/GOTHIC_28.pbf",
+    "repo_sha256": "c6f81ae4fa9ff19add4875dde47b23f0d18d49bb4d442dc242e8139c693b1917",
+    "ours_sha256": "05813b352736d07c98f95c57485155cf4fd5bd731194ad1f5a868360794d1e2b",
+    "files": [
+      "1_REPO/GOTHIC_28__1_REPO.bdf",
+      "3_NASE/GOTHIC_28__3_NASE.bdf"
+    ]
+  },
+  {
+    "name": "GOTHIC_28_BOLD",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "resources/normal/base/pbf/GOTHIC_28_BOLD.pbf",
+    "repo_sha256": "728ea9bef855eaf16f48954d3ed6a287b52116345bc3533f42725013c3bed170",
+    "ours_sha256": "a04a62d36ba525bf914e94beac07daf547fb0d25a81b5abafd13e0f5569f8e0c",
+    "files": [
+      "1_REPO/GOTHIC_28_BOLD__1_REPO.bdf",
+      "3_NASE/GOTHIC_28_BOLD__3_NASE.bdf"
+    ]
+  },
+  {
+    "name": "ROBOTO_CONDENSED_21",
+    "revision": "9399f564fb5035057a9174025d2c6c625e942285",
+    "repo_source": "TTF + original character list (firmware generator)",
+    "repo_sha256": "d5751151c8678d09d3164d11ee745a3f60bc588f5a26d4ffd4380f4dfb3ee4be",
+    "ours_sha256": "7814d5f1a4191f3f6da35d15c594742a7e9bd2822200108df2cd8e2e30045765",
+    "files": [
+      "1_REPO/ROBOTO_CONDENSED_21__1_REPO.bdf",
+      "3_NASE/ROBOTO_CONDENSED_21__3_NASE.bdf",
+      "2_PREDLOHA/ROBOTO_CONDENSED_21__2_PREDLOHA.bdf"
+    ],
+    "reference": "Roboto Condensed – projektový TTF",
+    "reference_size": 21,
+    "reference_sha256": "2af71369b6e1ab597407c5d720ca6e3fcf33554762c14953aa21dbb8667c55f0"
+  }
+]

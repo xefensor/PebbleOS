@@ -1,0 +1,10 @@
+# Keep source fonts, catalogs, installable packs and review images.
+**/build*/
+**/cmake-build*/
+**/__pycache__/
+*.elf
+*.resball
+*.pbpack
+*.log
+*.pid
+*.sock

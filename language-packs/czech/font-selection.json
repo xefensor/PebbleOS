@@ -1,0 +1,30 @@
+{
+  "GOTHIC_36": {
+    "selection": "original matching bitmap variant; system acute and ring donors",
+    "added": "ČčĎďĚěŇňŘřŤťŮů",
+    "existing_glyphs_unchanged": true
+  },
+  "BITHAM_30_BLACK": {
+    "selection": "original matching bitmap variant; system acute and ring donors",
+    "added": "ČčĎďĚěŇňŘřŠšŤťŮůÝŽž",
+    "existing_glyphs_unchanged": true
+  },
+  "BITHAM_42_BOLD": {
+    "selection": "original matching bitmap variant; system acute and ring donors",
+    "added": "ČčĎďĚěŇňŘřŠšŤťŮůÝŽž",
+    "existing_glyphs_unchanged": true
+  },
+  "BITHAM_42_LIGHT": {
+    "selection": "original matching bitmap variant; system acute and ring donors",
+    "added": "ČčĎďĚěŇňŘřŠšŤťŮůÝŽž",
+    "existing_glyphs_unchanged": true
+  },
+  "ROBOTO_CONDENSED_21": {
+    "selection": "firmware TTF, size and compatibility 2.7",
+    "existing_glyphs_unchanged": true
+  },
+  "DROID_SERIF_28_BOLD": {
+    "selection": "firmware TTF, size and compatibility 2.7",
+    "existing_glyphs_unchanged": true
+  }
+}

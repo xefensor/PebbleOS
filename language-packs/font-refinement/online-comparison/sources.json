@@ -1,0 +1,7 @@
+{
+  "date": "2026-09-08",
+  "pebble": "https://developer.rebble.io/guides/app-resources/system-fonts/",
+  "raster_gothic": "https://www.marksimonson.com/fonts/view/raster-gothic/",
+  "version": "2.2.0",
+  "method": "Pillow monochrome rendering at 14/18 px; baseline aligned using H; font files excluded"
+}

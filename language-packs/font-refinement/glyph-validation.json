@@ -1,0 +1,262 @@
+[
+  {
+    "font": "BITHAM_30_BLACK",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 6,
+      "height": 5,
+      "ink_pixels": 15
+    },
+    "caron": {
+      "width": 9,
+      "height": 4,
+      "ink_pixels": 20
+    },
+    "size": 9266,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "BITHAM_42_BOLD",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 8,
+      "height": 6,
+      "ink_pixels": 24
+    },
+    "caron": {
+      "width": 11,
+      "height": 5,
+      "ink_pixels": 26
+    },
+    "size": 14652,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "BITHAM_42_LIGHT",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 5,
+      "height": 5,
+      "ink_pixels": 10
+    },
+    "caron": {
+      "width": 8,
+      "height": 4,
+      "ink_pixels": 14
+    },
+    "size": 13444,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 5,
+      "height": 4,
+      "ink_pixels": 10
+    },
+    "caron": {
+      "width": 7,
+      "height": 3,
+      "ink_pixels": 11
+    },
+    "size": 8545,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_14",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýčďĚěňšťŽ",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 2,
+      "height": 2,
+      "ink_pixels": 2
+    },
+    "caron": {
+      "width": 3,
+      "height": 2,
+      "ink_pixels": 3
+    },
+    "size": 6989,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_14_BOLD",
+    "changed_from_original": "ÁÍÓÚÝíýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 3,
+      "height": 2,
+      "ink_pixels": 4
+    },
+    "caron": {
+      "width": 4,
+      "height": 2,
+      "ink_pixels": 4
+    },
+    "size": 7437,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_18",
+    "changed_from_original": "ÓÚČĎďŇŘŠšťž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 3,
+      "height": 3,
+      "ink_pixels": 3
+    },
+    "caron": {
+      "width": 5,
+      "height": 3,
+      "ink_pixels": 5
+    },
+    "size": 7889,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_18_BOLD",
+    "changed_from_original": "ÍďŠť",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 4,
+      "height": 3,
+      "ink_pixels": 6
+    },
+    "caron": {
+      "width": 6,
+      "height": 3,
+      "ink_pixels": 10
+    },
+    "size": 8457,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_24",
+    "changed_from_original": "ÁÉÓÚáéóúýČčĎďĚěŇňŘřŠšťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 3,
+      "height": 3,
+      "ink_pixels": 3
+    },
+    "caron": {
+      "width": 5,
+      "height": 3,
+      "ink_pixels": 5
+    },
+    "size": 9281,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_24_BOLD",
+    "changed_from_original": "ÁÍýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 4,
+      "height": 3,
+      "ink_pixels": 6
+    },
+    "caron": {
+      "width": 5,
+      "height": 3,
+      "ink_pixels": 8
+    },
+    "size": 9969,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_28",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 4,
+      "height": 4,
+      "ink_pixels": 8
+    },
+    "caron": {
+      "width": 7,
+      "height": 4,
+      "ink_pixels": 12
+    },
+    "size": 12361,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_28_BOLD",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 5,
+      "height": 4,
+      "ink_pixels": 12
+    },
+    "caron": {
+      "width": 8,
+      "height": 4,
+      "ink_pixels": 14
+    },
+    "size": 12881,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_36",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 5,
+      "height": 5,
+      "ink_pixels": 10
+    },
+    "caron": {
+      "width": 7,
+      "height": 4,
+      "ink_pixels": 12
+    },
+    "size": 26170,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "GOTHIC_36_BOLD",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúý",
+    "acute": {
+      "width": 7,
+      "height": 5,
+      "ink_pixels": 15
+    },
+    "caron": {
+      "width": 8,
+      "height": 4,
+      "ink_pixels": 14
+    },
+    "size": 17753,
+    "advance_changes_from_previous": {}
+  },
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "changed_from_original": "ÁÉÍÓÚÝáéíóúýČčĎďĚěŇňŘřŠšŤťŽž",
+    "changed_from_previous": "ÁÉÍÓÚÝáéíóúýČčĎĚěŇňŘřŠšŤŽž",
+    "acute": {
+      "width": 3,
+      "height": 3,
+      "ink_pixels": 6
+    },
+    "caron": {
+      "width": 5,
+      "height": 3,
+      "ink_pixels": 5
+    },
+    "size": 5149,
+    "advance_changes_from_previous": {
+      "Í": [
+        6,
+        5
+      ]
+    }
+  }
+]

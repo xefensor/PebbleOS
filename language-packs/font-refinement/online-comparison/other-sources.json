@@ -1,0 +1,67 @@
+[
+  {
+    "pbf": "BITHAM_30_BLACK",
+    "reference": "Gotham ScreenSmart Black",
+    "filename": "GothamSSm-Black.ttf",
+    "version": "Version 1.301",
+    "source": "https://www.typography.com/fonts/gotham/styles",
+    "sha256": "6922d508e6a5201bc6f33cc0f46e5108c3fe45fd37f607123b626388132bc9d1",
+    "pixels": 29,
+    "capital_height": 21,
+    "reference_capital_height": 21,
+    "local_path": null,
+    "asset_url": "https://www.typography.com/fonts/woff2/GothamSSm-Black_Web.woff2"
+  },
+  {
+    "pbf": "BITHAM_42_BOLD",
+    "reference": "Gotham ScreenSmart Bold",
+    "filename": "GothamSSm-Bold.ttf",
+    "version": "Version 1.301",
+    "source": "https://www.typography.com/fonts/gotham/styles",
+    "sha256": "170c91e5e4f64b719be568e76f6d92aa54f8d4afe1936b61f89d9aff5598294e",
+    "pixels": 40,
+    "capital_height": 29,
+    "reference_capital_height": 29,
+    "local_path": null,
+    "asset_url": "https://www.typography.com/fonts/woff2/GothamSSm-Bold_Web.woff2"
+  },
+  {
+    "pbf": "BITHAM_42_LIGHT",
+    "reference": "Gotham ScreenSmart Light",
+    "filename": "GothamSSm-Light.ttf",
+    "version": "Version 1.301",
+    "source": "https://www.typography.com/fonts/gotham/styles",
+    "sha256": "46c7c77c010306820427b4786967d959e2ff9b81d0bcf1bc3ed5a9e3e3b52450",
+    "pixels": 40,
+    "capital_height": 29,
+    "reference_capital_height": 29,
+    "local_path": null,
+    "asset_url": "https://www.typography.com/fonts/woff2/GothamSSm-Light_Web.woff2"
+  },
+  {
+    "pbf": "DROID_SERIF_28_BOLD",
+    "reference": "Droid Serif Bold – projektový TTF",
+    "filename": "DroidSerif-Bold.ttf",
+    "version": "Version 1.00",
+    "source": "https://developer.rebble.io/guides/app-resources/system-fonts/",
+    "sha256": "c746c6383a03effbcad6ccb028e4b39e87071ff1a146a24fb2110a23e05776bb",
+    "pixels": 28,
+    "capital_height": 20,
+    "reference_capital_height": 20,
+    "local_path": "resources/normal/base/ttf/DroidSerif-Bold.ttf",
+    "asset_url": null
+  },
+  {
+    "pbf": "ROBOTO_CONDENSED_21",
+    "reference": "Roboto Condensed – projektový TTF",
+    "filename": "Roboto-Condensed.ttf",
+    "version": "Version 3.008; 2023",
+    "source": "https://github.com/googlefonts/roboto-3-classic",
+    "sha256": "2af71369b6e1ab597407c5d720ca6e3fcf33554762c14953aa21dbb8667c55f0",
+    "pixels": 21,
+    "capital_height": 15,
+    "reference_capital_height": 15,
+    "local_path": "resources/normal/base/ttf/Roboto-Condensed.ttf",
+    "asset_url": null
+  }
+]

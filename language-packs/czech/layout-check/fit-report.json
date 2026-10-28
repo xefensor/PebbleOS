@@ -1,0 +1,599 @@
+{
+  "method": "Firmware PBF advances and source-defined text boxes; separate QEMU screenshots",
+  "firmware": "de23235b2",
+  "strings_checked": 37,
+  "ok": true,
+  "results": [
+    {
+      "source": "Just Once",
+      "before": "Jednou",
+      "after": "Jednou",
+      "font": "GOTHIC_24_BOLD",
+      "limit_px": 132,
+      "note": "Day-picker menu title",
+      "before_px": 52,
+      "after_px": 52,
+      "lines": [
+        "Jednou"
+      ],
+      "before_lines": [
+        "Jednou"
+      ],
+      "ok": true
+    },
+    {
+      "source": "%k",
+      "before": "%k",
+      "after": "%k",
+      "ok": true,
+      "method": "unchanged format/unit",
+      "note": "Same time format; native chart measures hour labels"
+    },
+    {
+      "source": "%l%p",
+      "before": "%l%p",
+      "after": "%l%p",
+      "ok": true,
+      "method": "unchanged format/unit",
+      "note": "Same time format; native chart omits AM/PM when labels would overlap"
+    },
+    {
+      "source": "%l",
+      "before": "%l",
+      "after": "%l",
+      "ok": true,
+      "method": "unchanged format/unit",
+      "note": "Same time format; native chart measures hour labels"
+    },
+    {
+      "source": "%d–%d BPM",
+      "before": "%d–%d BPM",
+      "after": "%d–%d BPM",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 134,
+      "note": "Health range; 255–255 BPM",
+      "before_px": 93,
+      "after_px": 93,
+      "lines": [
+        "255–255 BPM"
+      ],
+      "before_lines": [
+        "255–255 BPM"
+      ],
+      "ok": true
+    },
+    {
+      "source": "TODAY'S RANGE",
+      "before": "DNEŠNÍ ROZSAH",
+      "after": "DNEŠNÍ ROZSAH",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 134,
+      "note": "Health heading",
+      "before_px": 93,
+      "after_px": 93,
+      "lines": [
+        "DNEŠNÍ ROZSAH"
+      ],
+      "before_lines": [
+        "DNEŠNÍ ROZSAH"
+      ],
+      "ok": true
+    },
+    {
+      "source": "SpO2",
+      "before": "SpO2",
+      "after": "SpO2",
+      "font": "GOTHIC_24_BOLD",
+      "limit_px": 132,
+      "note": "Health settings title",
+      "before_px": 39,
+      "after_px": 39,
+      "lines": [
+        "SpO2"
+      ],
+      "before_lines": [
+        "SpO2"
+      ],
+      "ok": true
+    },
+    {
+      "source": "SpO2 During Activity",
+      "before": "SpO2 při aktivitě",
+      "after": "SpO2 při aktivitě",
+      "font": "GOTHIC_24_BOLD",
+      "limit_px": 132,
+      "note": "Health settings title",
+      "before_px": 123,
+      "after_px": 123,
+      "lines": [
+        "SpO2 při aktivitě"
+      ],
+      "before_lines": [
+        "SpO2 při aktivitě"
+      ],
+      "ok": true
+    },
+    {
+      "source": "Disconnect the charger to shut down.",
+      "before": "Pro vypnutí odpojte nabíječku.",
+      "after": "Pro vypnutí odpojte nabíječku",
+      "font": "GOTHIC_24_BOLD",
+      "limit_px": 132,
+      "note": "Shutdown dialog, maximum two lines",
+      "before_px": 222,
+      "after_px": 218,
+      "lines": [
+        "Pro vypnutí",
+        "odpojte nabíječku"
+      ],
+      "before_lines": [
+        "Pro vypnutí",
+        "odpojte",
+        "nabíječku."
+      ],
+      "ok": true
+    },
+    {
+      "source": "m/s",
+      "before": "m/s",
+      "after": "m/s",
+      "ok": true,
+      "method": "unchanged format/unit",
+      "note": "Unchanged unit in wrapped forecast text"
+    },
+    {
+      "source": "kt",
+      "before": "kt",
+      "after": "kt",
+      "ok": true,
+      "method": "unchanged format/unit",
+      "note": "Unchanged unit in wrapped forecast text"
+    },
+    {
+      "source": "COMPLETE",
+      "before": "DOKONČENO",
+      "after": "DOKONČENO",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 144,
+      "note": "Completed workout banner",
+      "before_px": 79,
+      "after_px": 79,
+      "lines": [
+        "DOKONČENO"
+      ],
+      "before_lines": [
+        "DOKONČENO"
+      ],
+      "ok": true
+    },
+    {
+      "source": "END WORKOUT?",
+      "before": "UKONČIT TRÉNINK?",
+      "after": "UKONČIT?",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 114,
+      "note": "Paused workout banner beside action bar",
+      "before_px": 123,
+      "after_px": 64,
+      "lines": [
+        "UKONČIT?"
+      ],
+      "before_lines": [
+        "UKONČIT TRÉNINK?"
+      ],
+      "ok": true
+    },
+    {
+      "source": "PAUSED",
+      "before": "POZASTAVENO",
+      "after": "POZASTAVENO",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 114,
+      "note": "Paused workout banner beside action bar",
+      "before_px": 96,
+      "after_px": 96,
+      "lines": [
+        "POZASTAVENO"
+      ],
+      "before_lines": [
+        "POZASTAVENO"
+      ],
+      "ok": true
+    },
+    {
+      "source": "AVG",
+      "before": "PRŮM.",
+      "after": "PRŮM.",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 38,
+      "note": "Heart-rate badge label",
+      "before_px": 38,
+      "after_px": 38,
+      "lines": [
+        "PRŮM."
+      ],
+      "before_lines": [
+        "PRŮM."
+      ],
+      "ok": true
+    },
+    {
+      "source": "Z%d",
+      "before": "Z%d",
+      "after": "Z%d",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 22,
+      "note": "Zone row; Z4",
+      "before_px": 13,
+      "after_px": 13,
+      "lines": [
+        "Z4"
+      ],
+      "before_lines": [
+        "Z4"
+      ],
+      "ok": true
+    },
+    {
+      "source": "TOTAL TIME",
+      "before": "CELKOVÝ ČAS",
+      "after": "CELK. ČAS",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 62,
+      "note": "Gauge bottom field: 124 / 2",
+      "before_px": 81,
+      "after_px": 61,
+      "lines": [
+        "CELK. ČAS"
+      ],
+      "before_lines": [
+        "CELKOVÝ ČAS"
+      ],
+      "ok": true
+    },
+    {
+      "source": "TIMER",
+      "before": "ČAS",
+      "after": "ČAS",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 72,
+      "note": "Workout grid: 144 / 2",
+      "before_px": 24,
+      "after_px": 24,
+      "lines": [
+        "ČAS"
+      ],
+      "before_lines": [
+        "ČAS"
+      ],
+      "ok": true
+    },
+    {
+      "source": "DIST MI",
+      "before": "VZD. MI",
+      "after": "VZD. MI",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 57,
+      "note": "Paused workout column",
+      "before_px": 44,
+      "after_px": 44,
+      "lines": [
+        "VZD. MI"
+      ],
+      "before_lines": [
+        "VZD. MI"
+      ],
+      "ok": true
+    },
+    {
+      "source": "DIST KM",
+      "before": "VZD. KM",
+      "after": "VZD. KM",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 57,
+      "note": "Paused workout column",
+      "before_px": 48,
+      "after_px": 48,
+      "lines": [
+        "VZD. KM"
+      ],
+      "before_lines": [
+        "VZD. KM"
+      ],
+      "ok": true
+    },
+    {
+      "source": "PACE /MI",
+      "before": "TEMPO /MI",
+      "after": "MIN/MI",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 57,
+      "note": "Paused workout column",
+      "before_px": 65,
+      "after_px": 43,
+      "lines": [
+        "MIN/MI"
+      ],
+      "before_lines": [
+        "TEMPO /MI"
+      ],
+      "ok": true
+    },
+    {
+      "source": "PACE /KM",
+      "before": "TEMPO /KM",
+      "after": "MIN/KM",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 57,
+      "note": "Paused workout column",
+      "before_px": 69,
+      "after_px": 47,
+      "lines": [
+        "MIN/KM"
+      ],
+      "before_lines": [
+        "TEMPO /KM"
+      ],
+      "ok": true
+    },
+    {
+      "source": "KCAL",
+      "before": "KCAL",
+      "after": "KCAL",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 57,
+      "note": "Paused workout column",
+      "before_px": 31,
+      "after_px": 31,
+      "lines": [
+        "KCAL"
+      ],
+      "before_lines": [
+        "KCAL"
+      ],
+      "ok": true
+    },
+    {
+      "source": "CADENCE",
+      "before": "KADENCE",
+      "after": "KADENCE",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 72,
+      "note": "Workout grid column",
+      "before_px": 54,
+      "after_px": 54,
+      "lines": [
+        "KADENCE"
+      ],
+      "before_lines": [
+        "KADENCE"
+      ],
+      "ok": true
+    },
+    {
+      "source": "SPEED MPH",
+      "before": "RYCHL. MPH",
+      "after": "RYCH. MPH",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 72,
+      "note": "Workout grid column",
+      "before_px": 72,
+      "after_px": 65,
+      "lines": [
+        "RYCH. MPH"
+      ],
+      "before_lines": [
+        "RYCHL. MPH"
+      ],
+      "ok": true
+    },
+    {
+      "source": "SPEED KM/H",
+      "before": "RYCHL. KM/H",
+      "after": "RYCH. KM/H",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 72,
+      "note": "Workout grid column",
+      "before_px": 79,
+      "after_px": 72,
+      "lines": [
+        "RYCH. KM/H"
+      ],
+      "before_lines": [
+        "RYCHL. KM/H"
+      ],
+      "ok": true
+    },
+    {
+      "source": "LOW SPO2 %",
+      "before": "MIN. SPO2 %",
+      "after": "MIN. SpO2",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 62,
+      "note": "Gauge bottom field",
+      "before_px": 74,
+      "after_px": 58,
+      "lines": [
+        "MIN. SpO2"
+      ],
+      "before_lines": [
+        "MIN. SPO2 %"
+      ],
+      "ok": true
+    },
+    {
+      "source": "AVG BPM",
+      "before": "PRŮM. BPM",
+      "after": "PRŮM.",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 62,
+      "note": "Gauge bottom field",
+      "before_px": 67,
+      "after_px": 38,
+      "lines": [
+        "PRŮM."
+      ],
+      "before_lines": [
+        "PRŮM. BPM"
+      ],
+      "ok": true
+    },
+    {
+      "source": "TIME IN ZONE",
+      "before": "ČAS V ZÓNĚ",
+      "after": "ČAS V ZÓNĚ",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 144,
+      "note": "Workout zones heading",
+      "before_px": 68,
+      "after_px": 68,
+      "lines": [
+        "ČAS V ZÓNĚ"
+      ],
+      "before_lines": [
+        "ČAS V ZÓNĚ"
+      ],
+      "ok": true
+    },
+    {
+      "source": "LAST MINUTE",
+      "before": "POSLEDNÍ MINUTA",
+      "after": "POSL. MINUTA",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 86,
+      "note": "144px HR chart: 144 - 28 - 24 - 6",
+      "before_px": 107,
+      "after_px": 84,
+      "lines": [
+        "POSL. MINUTA"
+      ],
+      "before_lines": [
+        "POSLEDNÍ MINUTA"
+      ],
+      "ok": true
+    },
+    {
+      "source": "WAITING FOR HR",
+      "before": "ČEKÁNÍ NA TEP",
+      "after": "ČEKÁ NA TEP",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 86,
+      "note": "144px HR chart plot width",
+      "before_px": 88,
+      "after_px": 76,
+      "lines": [
+        "ČEKÁ NA TEP"
+      ],
+      "before_lines": [
+        "ČEKÁNÍ NA TEP"
+      ],
+      "ok": true
+    },
+    {
+      "source": "READING SPO2",
+      "before": "MĚŘENÍ SPO2",
+      "after": "MĚŘENÍ SPO2",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 120,
+      "note": "Gauge heading, 24-byte buffer",
+      "before_px": 89,
+      "after_px": 89,
+      "lines": [
+        "MĚŘENÍ SPO2"
+      ],
+      "before_lines": [
+        "MĚŘENÍ SPO2"
+      ],
+      "ok": true,
+      "buffer_bytes_including_nul": 15
+    },
+    {
+      "source": "ZONE %d",
+      "before": "ZÓNA %d",
+      "after": "ZÓNA %d",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 120,
+      "note": "Gauge heading; zone 4, 24-byte buffer",
+      "before_px": 47,
+      "after_px": 47,
+      "lines": [
+        "ZÓNA 4"
+      ],
+      "before_lines": [
+        "ZÓNA 4"
+      ],
+      "ok": true,
+      "buffer_bytes_including_nul": 8
+    },
+    {
+      "source": "MEASURING",
+      "before": "MĚŘENÍ",
+      "after": "MĚŘENÍ",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 120,
+      "note": "Gauge heading, 24-byte buffer",
+      "before_px": 50,
+      "after_px": 50,
+      "lines": [
+        "MĚŘENÍ"
+      ],
+      "before_lines": [
+        "MĚŘENÍ"
+      ],
+      "ok": true,
+      "buffer_bytes_including_nul": 10
+    },
+    {
+      "source": "SPO2 %",
+      "before": "SPO2 %",
+      "after": "SPO2 %",
+      "font": "GOTHIC_14_BOLD",
+      "limit_px": 62,
+      "note": "Gauge bottom field",
+      "before_px": 45,
+      "after_px": 45,
+      "lines": [
+        "SPO2 %"
+      ],
+      "before_lines": [
+        "SPO2 %"
+      ],
+      "ok": true
+    },
+    {
+      "source": "WORKOUT",
+      "before": "TRÉNINK",
+      "after": "TRÉNINK",
+      "font": "GOTHIC_18_BOLD",
+      "limit_px": 144,
+      "note": "Workout picker/countdown heading",
+      "before_px": 55,
+      "after_px": 55,
+      "lines": [
+        "TRÉNINK"
+      ],
+      "before_lines": [
+        "TRÉNINK"
+      ],
+      "ok": true
+    },
+    {
+      "source": "GO!",
+      "before": "START!",
+      "after": "TEĎ",
+      "font": "BITHAM_30_BLACK",
+      "limit_px": 68,
+      "note": "Small countdown circle; PT2 allows 96px",
+      "before_px": 116,
+      "after_px": 63,
+      "lines": [
+        "TEĎ"
+      ],
+      "before_lines": [
+        "START!"
+      ],
+      "ok": true
+    }
+  ],
+  "limitations": "No physical-watch test; larger menu text sizes can scroll selected titles."
+}

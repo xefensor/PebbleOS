@@ -1,0 +1,77 @@
+[
+  {
+    "font": "BITHAM_30_BLACK",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúý",
+    "can_use_pack_fallback": "ÝČčĎďĚěŇňŘřŠšŤťŽž"
+  },
+  {
+    "font": "BITHAM_42_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúý",
+    "can_use_pack_fallback": "ÝČčĎďĚěŇňŘřŠšŤťŽž"
+  },
+  {
+    "font": "BITHAM_42_LIGHT",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúý",
+    "can_use_pack_fallback": "ÝČčĎďĚěŇňŘřŠšŤťŽž"
+  },
+  {
+    "font": "DROID_SERIF_28_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúý",
+    "can_use_pack_fallback": "ÝČčĎďĚěŇňŘřŠšŤťŽž"
+  },
+  {
+    "font": "GOTHIC_14",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_14_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_18",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_18_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_24",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_24_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_28",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_28_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "GOTHIC_36",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýŠšŽž",
+    "can_use_pack_fallback": "ČčĎďĚěŇňŘřŤť"
+  },
+  {
+    "font": "GOTHIC_36_BOLD",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúÝýČčĎďĚěŇňŘřŠšŤťŽž",
+    "can_use_pack_fallback": ""
+  },
+  {
+    "font": "ROBOTO_CONDENSED_21",
+    "base_takes_precedence": "ÁáÉéÍíÓóÚúý",
+    "can_use_pack_fallback": "ÝČčĎďĚěŇňŘřŠšŤťŽž"
+  }
+]
